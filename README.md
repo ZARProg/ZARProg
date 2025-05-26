@@ -89,5 +89,5 @@ Passionate about combining <strong>technology</strong> and <strong>visual creati
 
 ---
 
-<br clear="both">
+<br clear="both" align="center">
 <img src="https://raw.githubusercontent.com/ZARProg/ZARProg/output/snake.svg" alt="Snake animation" />
