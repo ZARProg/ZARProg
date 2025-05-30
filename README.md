@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://banner-daffa.my.canva.site/" alt="Banner" />
+  <a href="https://drive.google.com/file/d/1wFTGrkUmhoJOUzmO0wmnENS1IgSUwoaN/view?usp=drive_link" target="_blank">
+    <img src="https://drive.google.com/thumbnail?id=1wFTGrkUmhoJOUzmO0wmnENS1IgSUwoaN" alt="Banner by Daffa" />
+  </a>
 </p>
 
 <p align="center">
