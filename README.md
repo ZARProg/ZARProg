@@ -77,6 +77,3 @@ Passionate about combining <strong>technology</strong> and <strong>visual creati
 </p>
 
 <p align="center"><em>“Creativity is intelligence having fun.” – Albert Einstein</em></p>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
