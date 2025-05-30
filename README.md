@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://chat.openai.com/mnt/data/a2eb5d86-b64f-4df7-bd1d-b2583a534711.png" alt="Banner" />
+  <img src="https://banner-daffa.my.canva.site/" alt="Banner" />
 </p>
 
 <p align="center">
