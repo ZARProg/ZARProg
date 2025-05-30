@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://drive.google.com/file/d/16DrrX6Loc_E-n04wv3uw9kTEhavn0mVy/view?usp=drive_link" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=16DrrX6Loc_E-n04wv3uw9kTEhavn0mVy" alt="Banner by Daffa" />
-  </a>
-</p>
+![Banner](assets/banner.png)
 
 <p align="center">
 🎓 Multidisciplinary digital creator with a background in <strong>Informatics Engineering</strong> from <a href="https://unikom.ac.id">UNIKOM</a> and <strong>Broadcasting & Film</strong> from SMKN 10 Bandung.  
