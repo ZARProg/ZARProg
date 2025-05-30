@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://drive.google.com/file/d/1wFTGrkUmhoJOUzmO0wmnENS1IgSUwoaN/view?usp=drive_link" target="_blank">
-    <img src="https://drive.google.com/thumbnail?id=1wFTGrkUmhoJOUzmO0wmnENS1IgSUwoaN" alt="Banner by Daffa" />
+  <a href="https://drive.google.com/file/d/16DrrX6Loc_E-n04wv3uw9kTEhavn0mVy/view?usp=drive_link" target="_blank">
+    <img src="https://drive.google.com/thumbnail?id=16DrrX6Loc_E-n04wv3uw9kTEhavn0mVy" alt="Banner by Daffa" />
   </a>
 </p>
 
