@@ -1,5 +1,6 @@
 ![Banner](assets/banner.png)
 
+## ✨ Who am I?
 <p align="center">
 🎓 Multidisciplinary digital creator with a background in <strong>Informatics Engineering</strong> from <a href="https://unikom.ac.id">UNIKOM</a> and <strong>Broadcasting & Film</strong> from SMKN 10 Bandung. 
 Passionate about combining <strong>technology</strong> and <strong>visual creativity</strong> to build meaningful, engaging digital experiences.
